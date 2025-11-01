@@ -1,35 +1,45 @@
-Hi there! 👋
-I'm Manoj B., an Electronics & Communication Engineering graduate turned Data Science enthusiast, driven by a mission to solve real-world problems using data, machine learning, and full-stack IT solutions.
+### 🚀 Hi there! I'm **Manoj B.**
 
-🔎 What I Do Now
+An **Electronics & Communication graduate turned Data Analyst & ML enthusiast**, passionate about transforming raw data into meaningful business insights.
 
-Analyze structured and unstructured datasets to extract actionable insights
+---
 
-Build end-to-end data science projects — from preprocessing to model deployment
+### 🔍 What I Do
 
-Work on EDA, feature engineering, model evaluation, and data visualization
+* Perform **data cleaning, wrangling, and EDA** on real-world datasets using Python and SQL
+* Build **interactive dashboards** and reports in **Power BI** to support decision-making
+* Develop **ML models** for predictive insights — from feature engineering to model evaluation
+* Work on **end-to-end analytics pipelines**, integrating models with **APIs & cloud platforms (Azure)**
+* Occasionally explore **IoT + Edge AI** systems, connecting my hardware roots with data-driven intelligence
 
-Integrate models into applications via APIs and cloud platforms
+---
 
-Still love hardware! Occasionally dive into IoT + edge AI systems when needed
+### 📊 Focus Areas
 
-📊 Recent Focus Areas
+* Business analytics: **Customer behavior, churn prediction, and KPI monitoring**
+* Visualization: **Power BI, Matplotlib, Seaborn, Plotly**
+* Data management: **SQL, Pandas, and advanced Excel**
+* Machine learning: **Scikit-learn, LightGBM, evaluation metrics, model tuning**
 
-Churn prediction, customer segmentation, and time-series forecasting
+---
 
-Visualization dashboards using Plotly, Seaborn, Matplotlib
+### 🏆 Highlights
 
-SQL-based analytics, Pandas, Scikit-learn, and MLOps basics
+* 🥉 **3rd Place** – National-level project expo & technical events
+* 📄 **Patent Published (2024):** AI-Controlled Touchless Water Dispenser
+* 💻 **Data Analyst Trainee at AlmaBetter** – Completed 5+ real-world data projects across industries
+* 🤖 Experience in **AI, ML, and IoT** domains
 
-🏆 Achievements
+---
 
-🥉 Secured 3rd place in national-level project expos & tech events
+### 🧠 Tech Stack
 
-📄 Patent holder: AI-integrated smart water dispenser
+**Python** • **SQL** • **Power BI** • **Pandas** • **NumPy** • **Scikit-learn** • **Excel** • **APIs** • **Azure Cloud** • **GitHub**
 
-🤖 Worked across hardware startups and AI internships
+---
 
-🧠 Tech Stack
-Python • Pandas • NumPy • Scikit-learn • SQL • Matplotlib • Seaborn • APIs • React • Git
+### 🌱 Currently
 
-🚀 Learning, building, and turning data into decisions.
+Exploring **data storytelling** and **machine learning deployment**, while seeking opportunities to contribute to teams that turn **data into decisions**.
+
+---
